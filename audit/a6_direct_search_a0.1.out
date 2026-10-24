@@ -1,0 +1,4 @@
+  250 configs, 35s, tally {(1, 3): 250}, parity/x0 failures 0
+  500 configs, 71s, tally {(1, 3): 500}, parity/x0 failures 0
+  750 configs, 105s, tally {(1, 3): 750}, parity/x0 failures 0
+alpha 0.1: 800 configurations with a forced minimum (half near the fold), angles >= 3.0 deg: (minima, saddles) tally {(1, 3): 800}; index-count or x0-recovery failures 0; configurations with >= 2 minima: 0  (112s)

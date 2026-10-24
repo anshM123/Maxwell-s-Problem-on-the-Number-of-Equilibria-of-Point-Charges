@@ -1,0 +1,12 @@
+charges (50-digit construction): ['3.4706214e+14', '2.6658378e+15', '-3.0129001e+15']; Q_tot/sum|q| = -2.36e-8
+forced point: |grad V| relative 1.95e-49; Hessian eigenvalues ['0.00024677', '0.24975']
+564 seeds; distinct critical points found: 4
+   (-1087.39548821, -2211.70362476)  saddle
+   (127.185956193, -1522.6067462)  saddle
+   (387.882487161, -1895.86101105)  saddle
+   (386.115368542, -1894.94182219)  min
+extrema 1, saddles 3, index sum -2 (expected -2 for Q_tot != 0)
+
+real	0m17.642s
+user	0m0.015s
+sys	0m0.000s

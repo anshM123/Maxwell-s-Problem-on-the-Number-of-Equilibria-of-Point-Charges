@@ -1,0 +1,12 @@
+(S) tau . grad G = 0;  -Hess G(tau,tau) - J = 0   (arbitrary beta, L1, L2)
+(S) J/(U1 U2)^2 - I = 0
+alpha 0.5 (K = 4.5): 400 boundary points on 40 shapes; rays where E was not monotone before the crossing: 0
+   max |cosh Delta - beta(s)| at the points: 1.29e-39
+   vertex 3: max rel |I (U1U2)^2/|grad G|^3 - kappa_direct| = 1.32e-39; sign(I) != sign(kappa): 0
+   vertex 1: max rel |J1/|grad G1|^3 - kappa_X direct| = 4.69e-38; sign(J1) != sign(kappa): 0
+   negative values: I 0, J1 0, kappa 0;  mirror |I(shape, t) - I(mirror shape, swapped t)| rel max 0.0
+alpha 10 (K = 23.0476): 400 boundary points on 40 shapes; rays where E was not monotone before the crossing: 0
+   max |cosh Delta - beta(s)| at the points: 5.51e-39
+   vertex 3: max rel |I (U1U2)^2/|grad G|^3 - kappa_direct| = 2.54e-38; sign(I) != sign(kappa): 0
+   vertex 1: max rel |J1/|grad G1|^3 - kappa_X direct| = 2.13e-36; sign(J1) != sign(kappa): 0
+   negative values: I 1, J1 1, kappa 1;  mirror |I(shape, t) - I(mirror shape, swapped t)| rel max 0.0

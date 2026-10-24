@@ -1,0 +1,2 @@
+(C) collinear: number of zeros of V' on the line (both gaps + outside the hull) per configuration: {2: 282};  critical points found off the line by 3D root finding: 0
+(M) 150 shapes (min angle 0.5/5/20 deg), alpha in {0.05,...,10}, 74850 sampled pairs + local minimisation over boundary pairs: min of the Step-2 quantity normalised by its median = -3.25e-06 (must be > 0)

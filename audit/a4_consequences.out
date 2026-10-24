@@ -1,0 +1,3 @@
+(4a) inverse formula reproduces x from theta(x): max error by point type {'any': '2.2e-11', 'edge': '7.0e-07', 'vertex': '1.0e-10'} (float64; near edges/vertices the cot difference cancels); random theta in the hexagon {A_i < theta_i < pi}: 0 of 3000 mapped outside T, max |theta(x(theta)) - theta| 1.16e-11
+(4b) sign(det A): ccw-labelled [1], cw-labelled [-1] (never 0);  |det A - sum_cyc cross(e_i,e_j)| / |det A| max 2.1e-10; finite-difference check of A max rel err 8.4e-08
+(4c) sign(det Hess_theta H) != sign(D - c) at 0 of 20000 points (both orientations, alpha in {.25,.5,1,2.5}); on M (866 points): Hess_theta H positive definite at 866, trace signs [1], min eigenvalue ratio 5.26e-05

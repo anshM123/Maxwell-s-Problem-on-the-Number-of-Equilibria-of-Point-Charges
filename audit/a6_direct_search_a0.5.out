@@ -1,0 +1,17 @@
+  250 configs, 27s, tally {(1, 3): 250}, parity/x0 failures 0
+  500 configs, 54s, tally {(1, 3): 500}, parity/x0 failures 0
+  750 configs, 81s, tally {(1, 3): 750}, parity/x0 failures 0
+  1000 configs, 108s, tally {(1, 3): 1000}, parity/x0 failures 0
+  1250 configs, 134s, tally {(1, 3): 1250}, parity/x0 failures 0
+  1500 configs, 161s, tally {(1, 3): 1500}, parity/x0 failures 0
+  1750 configs, 188s, tally {(1, 3): 1750}, parity/x0 failures 0
+  2000 configs, 214s, tally {(1, 3): 2000}, parity/x0 failures 0
+  2250 configs, 241s, tally {(1, 3): 2250}, parity/x0 failures 0
+  2500 configs, 268s, tally {(1, 3): 2500}, parity/x0 failures 0
+  2750 configs, 295s, tally {(1, 3): 2750}, parity/x0 failures 0
+  3000 configs, 322s, tally {(1, 3): 3000}, parity/x0 failures 0
+  3250 configs, 349s, tally {(1, 3): 3250}, parity/x0 failures 0
+  3500 configs, 376s, tally {(1, 3): 3500}, parity/x0 failures 0
+  3750 configs, 410s, tally {(1, 3): 3750}, parity/x0 failures 0
+  4000 configs, 448s, tally {(1, 3): 4000}, parity/x0 failures 0
+alpha 0.5: 4000 configurations with a forced minimum (half near the fold), angles >= 3.0 deg: (minima, saddles) tally {(1, 3): 4000}; index-count or x0-recovery failures 0; configurations with >= 2 minima: 0  (448s)

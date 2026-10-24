@@ -1,0 +1,10 @@
+alpha_sweep.out                           34 certified slices
+alpha_sweep_mid.out                       24 certified slices
+alpha_sweep_hi.out                         2 certified slices
+alpha_sweep_hi2.out                       23 certified slices
+alpha_sweep_t1.out                        27 certified slices
+alpha_sweep_t2.out                        27 certified slices
+alpha_sweep_t3.out                        26 certified slices
+union of certified F-boxes: [1.083333333333333, 2.600000000000001]; gaps: none
+alpha-slices span [0.25, 2.0]
+COVERS F in [13/12, 13/5] (alpha in [1/4, 2]): YES

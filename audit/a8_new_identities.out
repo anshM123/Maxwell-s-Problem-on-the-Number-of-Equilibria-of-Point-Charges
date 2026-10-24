@@ -1,0 +1,30 @@
+400 points of T (half with an angle down to 0.5 deg; a quarter near an edge, a quarter near a vertex; alpha in {0.05,0.25,0.5,1,2.5,10}); 400 random points of H_A; 100 incentres; 120 critical points for S3
+  H_A L5: E < proof lower bound count                                         0
+  H_A L5: E <= 0 count                                                        0
+  H_A L5: min E''/lower bound (reported as 1/x)                               1.0
+  H_A L5: rel |l_i'' - (csc^2(t-A_i) + csc^2 t)|                              4.59e-41
+  H_A L6: rel |e2(d) - ((b+1)^2 - bE)|                                        1.7e-39
+  H_A L6: |det Gram - e2(d)| (rel)                                            3.5e-38
+  H_A L6: |e2(cot delta) - 1|                                                 4.58e-38
+  H_A L6: |e2(cot theta) - 1|                                                 2.59e-37
+  L3 proof: rel |R* - R/P_x|                                                  1.59e-34
+  L3 proof: |angle of T* at p_i* - delta_i|                                   3.22e-34
+  L3a: min(delta) < 0 count                                                   0
+  L3a: |sum delta - pi|                                                       2.53e-35
+  L3b: rel |r_j r_k sin delta_i - P_x sin A_i|                                1.16e-32
+  L3c: rel |lambda_i r_i^beta - C sin th sin^b de / sin^b A|                  2.25e-29
+  L4: rel |sum lambda_k r_k^2 - P_x|                                          9.05e-35
+  L4: |D E - 1|                                                               2.25e-29
+  L4: |W_i - (cot delta_i - cot theta_i)| / W_i                               9.16e-40
+  L6: rel |e2(d) - ((b+1)^2 - b E)|                                           4.18e-35
+  L6: |e2(cot delta) - 1|                                                     6.24e-31
+  L6: |e2(cot theta) - 1|                                                     1.05e-28
+  S1/L6: sign(D - c) != sign(e2(d)) count                                     0
+  S1: |log Q_i - f_i(theta_i) + b log sin A_i - log C|                        2.25e-29
+  S3: 1/(second singular value of L) (L has rank 2)                           8.9e+3
+  S3: L(1,1,1) (abs)                                                          7.89e-31
+  S3: max |Hess V_q - 2 alpha kappa L DPsi| / |Hess|                          1.18e-29
+  incentre: |E - 4|                                                           1.38e-39
+  incentre: |W_i - 2 tan(A_i/2)|                                              3.67e-40
+  incentre: |d_i - (b-1) tan(A_i/2)|                                          1.28e-37
+  incentre: |theta_i - (pi + A_i)/2|                                          9.64e-40

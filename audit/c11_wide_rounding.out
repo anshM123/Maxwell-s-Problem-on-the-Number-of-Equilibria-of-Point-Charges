@@ -1,0 +1,12 @@
+alpha [0.25, 0.3], F-box [1.0833333333333326, 1.1125000000000012], rounding: 4 ulps per operation, 16 ulps per library function
+main         certified    192633, FAILED 0  (18 rounds, 2s)
+band         certified      4096, FAILED 0  (1 rounds, 0s)
+corner +1    certified      2048, FAILED 0  (1 rounds, 0s)
+corner -1    certified      2048, FAILED 0  (1 rounds, 0s)
+   TOTAL failed: 0 -> CERTIFIED with wide rounding
+alpha [1.998046875, 2.0], F-box [2.5981250610828757, 2.600000000000002], rounding: 4 ulps per operation, 16 ulps per library function
+main         certified   8065005, FAILED 0  (22 rounds, 120s)
+band         certified    234943, FAILED 0  (12 rounds, 3s)
+corner +1    certified      2048, FAILED 0  (1 rounds, 0s)
+corner -1    certified    311291, FAILED 0  (9 rounds, 4s)
+   TOTAL failed: 0 -> CERTIFIED with wide rounding

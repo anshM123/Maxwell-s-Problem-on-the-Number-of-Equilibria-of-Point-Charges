@@ -1,0 +1,4 @@
+main       200 boxes (a quarter of them point boxes), 985 reference points: containment failures 0; non-finite enclosures 3; min relative slack 4.33e-14
+band       200 boxes (a quarter of them point boxes), 1000 reference points: containment failures 0; non-finite enclosures 0; min relative slack 4.96e-6
+corner+    200 boxes (a quarter of them point boxes), 1000 reference points: containment failures 0; non-finite enclosures 0; min relative slack 1.1e-14
+corner-    200 boxes (a quarter of them point boxes), 980 reference points: containment failures 0; non-finite enclosures 4; min relative slack 1.4e-14

@@ -1,0 +1,13 @@
+ia.py containment tests: 1500 random cases per operation (narrow/medium/wide); failures: none
+   edge case sinc on [0.0, 0.0] -> [0.9999999999999993, 1.0]
+   edge case sinc on [-1e-300, 1e-300] -> [0.9999999999999993, 1.0]
+   edge case sinc on [0.0, 1e-20] -> [0.9999999999999993, 1.0]
+   edge case sinc on [-2.0, 0.0] -> [0.4546487134128405, 1.0]
+   edge case sin on [1.5707963267948966, 1.5707963267948966] -> [0.9999999999999996, 1.0]
+   edge case sin on [1.5707963267948966, 1.5707963267948966] -> [0.9999999999999996, 1.0]
+   edge case sin on [-1.5707963267948966, -1.5707963267948966] -> [-1.0, -0.9999999999999996]
+   edge case sin on [3.141592653589793, 3.141592653589793] -> [1.2246467991473522e-16, 1.2246467991473542e-16]
+   edge case log [0,1] on [0.0, 1.0] -> [-inf, 2e-323]
+   edge case sqrt [-1e-20, 4] on [-1e-20, 4.0] -> [0.0, 2.000000000000001]
+numpy 2.5.3: measured max error in ulps over 20000 random arguments each (assumption in ia.py: <= 2, widened by 4):
+   sin 0.72, cos 0.79, exp 0.53, log 0.50, sinh 0.96, cosh 1.11, arcsinh 1.26, arccos 0.79, arcsin 0.77, arctan 0.71, sqrt 0.50

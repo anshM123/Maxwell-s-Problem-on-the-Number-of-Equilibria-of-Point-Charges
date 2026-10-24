@@ -1,0 +1,5 @@
+alpha [1.700000, 1.725000]: not closed (108s elapsed)
+alpha [1.700000, 1.712500]: not closed (251s elapsed)
+alpha [1.700000, 1.706250]: CERTIFIED (342s elapsed)
+alpha [1.706250, 1.712500]: CERTIFIED (437s elapsed)
+alpha [1.712500, 1.725000]: not closed (583s elapsed)

@@ -1,0 +1,30 @@
+(6) on M' (3600 sampled points, 300 shapes): min P = 3.5023 (claim >= 3.5), max |Lambda_1|,|Lambda_2|,|Lambda_3| = 0.688161, max |Delta| = 0.67369 (log 2 = 0.693147)
+
+TABLE (max abs/rel errors, and counts of failures):
+  (1) |Lambda' - U|/U                                                                        4.48e-41
+  (1) |U - 2(cosh L + cos a)/sin a|/U                                                        5.2e-40
+  (1) |U' - 2 sinh L U/sin a|/|U'|+1                                                         1.1e-40
+  (1) |t - arg(1 + e^(L + i a))|                                                             4.59e-41
+  (2) rel |(K - E) - (2U3/sin A3)(beta(s) - cosh Delta)|                                     1.85e-38
+  (2) rel |1/U3 - sin s sin(s+A3)/sin A3|                                                    2.26e-39
+  (2) rel |E - (2U3/sin A3)(cosh Delta + cos A3)|                                            2.05e-38
+  (3) rel |E - (2U1/sin A1)(cosh(L2 - L3) - cos A1)|                                         3.49e-37
+  (3) rel |E - (2U2/sin A2)(cosh(L1 - L3) - cos A2)|                                         1.14e-37
+  (4) Delta at the two ends of the s-line not (< -60, > 60)                                  0
+  (4) Delta not strictly increasing along t1 + t2 = s (200 lines x 400 points)               0
+  (4) |det d(s,Delta)/dt + (U1 + U2)| / (U1+U2)                                              2.59e-41
+  (5) (beta >= 1) != (|psi| <= psi_max)                                                      0
+  (5) psi_max >= A1 + A2                                                                     0
+  (5) |beta - 1 - (F+1) sin(pm(1+rho)/2) sin(pm(1-rho)/2)|                                   4.07e-41
+  (5) |beta - [(F-1)cos A3 + (F+1)cos psi]/2|                                                7.46e-41
+  (6) sampled point of {|Delta| < B(s)} has E >= K                                           0
+  (7) number of positive roots != 1                                                          0
+  (7) |E(t) - K| / K                                                                         4.18e-38
+  (7) |Lambda1 - Lambda2 - Delta|                                                            1.03e-40
+  (7) |t(quadratic) - t(bisection)|                                                          2.07e-40
+  (7) |t1 + t2 - s|                                                                          2.07e-40
+  (8) number of positive roots != 1                                                          0
+  (8) psi1_max >= A1                                                                         0
+  (8) t2 not in (0, A2)                                                                      5
+  (8) |E(t1, t2) - K| / K                                                                    3.32e-37
+  (8) |Lambda3(s) - Lambda2(t2) - D|                                                         1.46e-40

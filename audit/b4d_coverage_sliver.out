@@ -1,0 +1,2 @@
+ia.up(pi) = 3.141592653589794 > pi (float pi = 3.141592653589793)
+main chart with A12 in [0.2, up(pi)]: certified 127403, dropped 312, FAILED 0, min lower bound 2.038e-10 (13 rounds)

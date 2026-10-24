@@ -1,0 +1,16 @@
+   DETAIL forced/thinA12: A1 0.00011687833356738089 A2 0.0008978065167066201; q [np.float64(347062136795929.75), np.float64(2665837828010616.5), np.float64(-3012900106770738.0)]; t 5.83639901782454e-05 0.00044837217792867114, E np.float64(4.165981948375702), K 4.166666666666667, (K-E)/(K-4) 4.108e-03; forced x [np.float64(386.115368542459), np.float64(-1894.9418221908613)], |grad|/scale 1.05e-14, Hess eig [np.float64(0.0002467674313461343), np.float64(0.24975342348978163)]; 50-digit points: [('-1087.39421611', '-2211.70625978', 'saddle'), ('127.183654985', '-1522.59937275', 'saddle')]
+alpha 0.25 (K = 4.1667): 300 configurations per kind (4 shape families), 112s; outcomes:
+    forced (1 ext, 3 sad)                                        288
+    forced/thinA12 flagged in float (18 ext, 23 sad) -> 50 digits: 1 ext, 3 sad 1
+    forced/thinA12 flagged in float (18 ext, 24 sad) -> 50 digits: 1 ext, 3 sad 1
+    forced/thinA12 flagged in float (2 ext, 3 sad) -> 50 digits: 1 ext, 3 sad 1
+    forced/thinA12 flagged in float (2 ext, 5 sad) -> 50 digits: 1 ext, 3 sad 1
+    forced/thinA12 flagged in float (209 ext, 271 sad) -> 50 digits: 0 ext, 2 sad STILL FLAGGED 1
+    forced/thinA12 flagged in float (21 ext, 20 sad) -> 50 digits: 1 ext, 3 sad 1
+    forced/thinA12 flagged in float (3 ext, 6 sad) -> 50 digits: 1 ext, 3 sad 1
+    forced/thinA12 flagged in float (32 ext, 38 sad) -> 50 digits: 1 ext, 3 sad 1
+    forced/thinA12 flagged in float (6 ext, 7 sad) -> 50 digits: 1 ext, 3 sad 2
+    forced/thinA12 flagged in float (63 ext, 83 sad) -> 50 digits: 1 ext, 3 sad 1
+    forced/thinA12 flagged in float (8 ext, 9 sad) -> 50 digits: 1 ext, 3 sad 1
+    random (0 ext, 2 sad)                                        300
+    configurations still flagged after 50-digit refinement: 1

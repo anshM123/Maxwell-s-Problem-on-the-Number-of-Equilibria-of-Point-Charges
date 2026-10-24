@@ -1,0 +1,8 @@
+alpha_sweep.out         34 slices re-run
+alpha_sweep_mid.out     24 slices re-run
+alpha_sweep_hi.out       2 slices re-run
+alpha_sweep_hi2.out     23 slices re-run
+alpha_sweep_t1.out      27 slices re-run
+alpha_sweep_t2.out      27 slices re-run
+alpha_sweep_t3.out      26 slices re-run
+band charts re-run: 163; count mismatches or failures: 0; failed boxes: 0  ->  ALL IDENTICAL TO THE LOGS

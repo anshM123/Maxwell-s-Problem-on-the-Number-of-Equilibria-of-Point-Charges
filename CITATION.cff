@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Maxwell's problem for three point charges"
+authors:
+  - family-names: Mishra
+    given-names: Ansh
+  - family-names: Senthilkumar
+    given-names: Aryan
+date-released: 2026-10-24
+license: MIT
+repository-code: "https://github.com/anshM123/Maxwell-s-Problem-on-the-Number-of-Equilibria-of-Point-Charges"
+keywords:
+  - Maxwell's problem
+  - point charges
+  - equilibrium points
+  - Riesz potential
+  - critical points
+  - computer-assisted proof
+  - interval arithmetic

@@ -1,0 +1,5 @@
+main           certified    127403 boxes, dropped (other chart)      312, FAILED 0, min lower bound 2.038e-10  (13 rounds, 1s)
+band           certified      2048 boxes, dropped (other chart)        0, FAILED 0, min lower bound 9.337e-03  (1 rounds, 0s)
+corner +1      certified      1024 boxes, dropped (other chart)        0, FAILED 0, min lower bound 1.574e+00  (1 rounds, 0s)
+corner -1      certified      1024 boxes, dropped (other chart)        0, FAILED 0, min lower bound 1.548e+00  (1 rounds, 0s)
+TOTAL failed boxes: 0  ->  CLAIM M CERTIFIED (Coulomb)

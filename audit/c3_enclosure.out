@@ -1,0 +1,19 @@
+c3_enclosure: mixed_certF chart functions, F in [13/12, 13/5], 150 boxes per family
+main     generic     150 boxes,   596 reference points: containment failures 0; non-finite enclosures 1; enclosures with lower end <= 0: 12; reference undefined 0; min relative slack 3.88e-5  (33s)
+main     point       150 boxes,   600 reference points: containment failures 0; non-finite enclosures 0; enclosures with lower end <= 0: 0; reference undefined 0; min relative slack 3.61e-14  (33s)
+main     degenerate  150 boxes,   596 reference points: containment failures 0; non-finite enclosures 1; enclosures with lower end <= 0: 62; reference undefined 0; min relative slack 0.000225  (34s)
+band     generic     150 boxes,   600 reference points: containment failures 0; non-finite enclosures 0; enclosures with lower end <= 0: 1; reference undefined 0; min relative slack 0.000245  (67s)
+band     point       150 boxes,   600 reference points: containment failures 0; non-finite enclosures 0; enclosures with lower end <= 0: 0; reference undefined 0; min relative slack 2.83e-9  (73s)
+band     degenerate  150 boxes,   600 reference points: containment failures 0; non-finite enclosures 0; enclosures with lower end <= 0: 5; reference undefined 0; min relative slack 2.19e-5  (52s)
+corner+  generic     150 boxes,   600 reference points: containment failures 0; non-finite enclosures 0; enclosures with lower end <= 0: 0; reference undefined 0; min relative slack 1.47e-6  (36s)
+corner+  point       150 boxes,   600 reference points: containment failures 0; non-finite enclosures 0; enclosures with lower end <= 0: 0; reference undefined 0; min relative slack 9.17e-15  (35s)
+corner+  degenerate  150 boxes,   600 reference points: containment failures 0; non-finite enclosures 0; enclosures with lower end <= 0: 0; reference undefined 0; min relative slack 2.96e-6  (32s)
+corner-  generic     150 boxes,   584 reference points: containment failures 0; non-finite enclosures 4; enclosures with lower end <= 0: 0; reference undefined 0; min relative slack 7.86e-7  (38s)
+corner-  point       150 boxes,   600 reference points: containment failures 0; non-finite enclosures 0; enclosures with lower end <= 0: 0; reference undefined 0; min relative slack 9.45e-15  (33s)
+corner-  degenerate  150 boxes,   588 reference points: containment failures 0; non-finite enclosures 3; enclosures with lower end <= 0: 0; reference undefined 0; min relative slack 3.17e-6  (26s)
+part 2: mixed_certF at F = 5/4 (point F-box) versus mixed_cert / mixed_charts (audited Coulomb code)
+   main     400 finite pairs: non-overlapping enclosures 0; max |lower(certF) - lower(Coulomb)| / |value| 6.74e-14
+   band     400 finite pairs: non-overlapping enclosures 0; max |lower(certF) - lower(Coulomb)| / |value| 4.41e-15
+   corner+  400 finite pairs: non-overlapping enclosures 0; max |lower(certF) - lower(Coulomb)| / |value| 3.52e-15
+   corner-  400 finite pairs: non-overlapping enclosures 0; max |lower(certF) - lower(Coulomb)| / |value| 3.34e-15
+TOTAL containment failures: 0

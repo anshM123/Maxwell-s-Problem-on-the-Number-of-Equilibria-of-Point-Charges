@@ -1,0 +1,3 @@
+Q_tot = 1e-01, |m|/|Q_tot| = 13: windings (radius, w) [(10.0, np.float64(2.0)), (1.299, np.float64(2.0)), (129.877, np.float64(1.0))]; far critical points at radii [27.206]
+Q_tot = 1e-02, |m|/|Q_tot| = 137: windings (radius, w) [(10.0, np.float64(2.0)), (13.657, np.float64(2.0)), (1365.706, np.float64(1.0))]; far critical points at radii [274.392]
+Q_tot = 1e-03, |m|/|Q_tot| = 1.37e+03: windings (radius, w) [(10.0, np.float64(2.0)), (137.246, np.float64(2.0)), (13724.572, np.float64(1.0))]; far critical points at radii [2746.167]

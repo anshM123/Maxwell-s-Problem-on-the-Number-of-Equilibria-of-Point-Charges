@@ -1,0 +1,7 @@
+(3a) theta_i = phi_k - phi_j mod 2pi (ccw): failures 0;  theta_i = phi_j - phi_k (cw): failures 0;  grad theta_i = J(e_k - e_j) (ccw): max rel err 8.12e-31
+(3b) d Re f ^ d Im g = Re(f' conj g') dx^dy: max rel err 9.7e-31
+(3c) curl of omega = sum log r_i dtheta_i (numerical differentiation, normalised): max 0.0
+(3c) loop integrals around 200 random maximal circles in T: |oint sum log r_i dtheta_i| max 1.55e-15;  |oint sum log sin theta_i dtheta_i| max 1.44e-13;  contrast |oint sum r_i dtheta_i| max 2.84e-01
+(3d) grad(-sum Lob(theta_i)) vs sum log sin theta_i grad theta_i: max rel err 1.15e-27
+(3e) DPsi A^-1 symmetric: 150 points (both orientations; a quarter near edges, a quarter near vertices; beta in (2, 10)): max relative asymmetry 5.65e-30
+(3f) d(-sum_9 Lob) - omega = c1 dtheta1 + c2 dtheta2 (c3 = 0): c = [-0.4694851488, -0.1658379359], max residual 6.66e-16; compare log(side_3/side_1), log(side_3/side_2) = [0.4694851488, 0.1658379359]

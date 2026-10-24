@@ -1,0 +1,5 @@
+charges q = ['-2.0', '24.0', '-64.0'] (mixed signs), positions t = (0, 1, 3), x* = (-1, 0, 0)
+grad V(x*) = ['0.0', '0.0', '0.0']
+max |Hess V(x*)| entry = 0.0
+Jacobian of (F1, F2) in (x1, u) at (x1*, 0): det = -2.53125 (non-zero: no circle of critical points near x*)
+on the axis: f'(x*), f''(x*), f'''(x*) = ['0.0', '0.0', '-4.5'] (f' vanishes to order exactly 2 at x*, so x* is an isolated zero of f')

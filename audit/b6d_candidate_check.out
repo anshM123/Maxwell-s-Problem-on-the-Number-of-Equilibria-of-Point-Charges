@@ -1,0 +1,6 @@
+float candidates (|G| < 1e-9): 14
+  x = (29.7982001539812, -34.3260294088702): saddle, Hessian eigenvalues -1.48053e-9, 3.91335e-9
+  x = (-8.2554750176241, -27.8314670565505): extremum, Hessian eigenvalues 4.93503e-10, 1.06743e-8
+  x = (-2.39712092670493, -20.8603217689991): saddle, Hessian eigenvalues -9.57486e-9, 4.91241e-8
+  x = (-10.4893505918686, -28.4563442530579): saddle, Hessian eigenvalues -4.49239e-10, 1.00108e-8
+50-digit verified: 1 extrema, 3 saddles (Q_tot = -3.213e-04; index count requires saddles - extrema = 2)

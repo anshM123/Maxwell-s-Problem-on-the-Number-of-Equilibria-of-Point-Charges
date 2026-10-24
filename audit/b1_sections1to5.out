@@ -1,0 +1,36 @@
+(1) planarity: 77 critical points found by 3D root finding (40 configurations), 0 off the plane
+(2) critical points by region: {'R+': 73, 'R-': 47, 'other': 0}
+(3)-(8) evaluated at random points of the plane (3000 tries), see table below
+(10) index count: (case, winding at infinity, windings at charges, #extrema, #saddles): counts
+     ('Qtot!=0', 1, (1, 1, 1), 0, 2): 39
+     ('Qtot!=0', 2, (1, 1, 1), 0, 2): 1
+     ('Qtot=0', 2, (1, 1, 1), 0, 1): 40
+
+TABLE (max abs/rel errors, and counts of failures):
+  (1) off-plane critical points found (of all)                                     0
+  (2) kappa sign inconsistent with region                                          0
+  (2) max rel spread of w_i/lambda_i                                               1.813300121015466e-13
+  (2) rel |Hess V - 2 alpha kappa (beta S - I)|                                    3.8612087130029655e-14
+  (3) rel |D - P_x prod sin sigma / (2 Delta)|                                     1.12e-35
+  (4) R+: prod sin >= 0                                                            0
+  (4) R+out: t_i not in (0, A_i) or s != t1 + t2 or s >= A1 + A2                   0
+  (4) R-: prod sin <= 0 or P_x >= 0 or D >= 0                                      0
+  (5) rel |r_j r_k sin(sigma_i - A_i) - P_x sin A_i|                               2.82e-37
+  (6) random t in Q maps outside R+out                                             0
+  (6) x_of_t: r1 or r2 <= 0 (wrong branch)                                         0
+  (6) |t(x_of_t(t)) - t|                                                           1.1e-38
+  (6) |x_of_t(t(x)) - x| / |x|                                                     1.11e-37
+  (7) rel |lambda_i r_i^beta - C sin sigma |sin(sigma - A)|^b / sin^b A|           5.63e-37
+  (7) |grad H(t(x)) - psi_q|                                                       6.02e-37
+  (8) E < 4 somewhere in Q                                                         0
+  (8) |E - (2 + 2<x~,y~>)|                                                         4.56e-38
+  (8) |E D - 1|                                                                    5.44e-35
+  (8) |E(t0) - 4|                                                                  4.7e-38
+  (8) |W - (-U1, -U2, U3)|                                                         2.09e-39
+  (8) |e2(x~) - 1|, |e2(y~) - 1|                                                   2.1e-35
+  (8) |t(excentre_3) - (A1/2, A2/2)|                                               2.55e-39
+  (9) Hess H at t0 not negative definite                                           0
+  (9) rel |e2(d) - ((b+1)^2 - bE)|                                                 1.36e-37
+  (9) |Hess H - Gram(d)| (rel)                                                     1.36e-40
+  (9) |d - (phi1', phi2', -phi3')|                                                 3.06e-37
+  (9) |det Gram - e2(d)| (rel)                                                     3.69e-40

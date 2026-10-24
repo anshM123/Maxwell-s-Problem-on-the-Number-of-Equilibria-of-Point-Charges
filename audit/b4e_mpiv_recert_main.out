@@ -1,0 +1,8 @@
+main chart: 127403 certified boxes; A12 range [np.float64(0.2), np.float64(3.141592653589793)]; total volume 5.88265697165621 vs domain volume 5.88318530717959 (difference 5.283e-04 = dropped corner boxes)
+   20000 boxes done (14s), refined 50, failures 0
+   40000 boxes done (29s), refined 88, failures 0
+   60000 boxes done (44s), refined 104, failures 0
+   80000 boxes done (59s), refined 104, failures 0
+   100000 boxes done (73s), refined 104, failures 0
+   120000 boxes done (87s), refined 104, failures 0
+mp.iv (prec 80 bits) independent re-certification of 127403 main-chart boxes (stride 1): needed local refinement 104, leaf boxes 127507, NOT certified 0; min lower bound [2.037562550117799462497409223e-10, 2.037562550117799462497409223e-10]; 92s

@@ -1,0 +1,20 @@
+== mixed_cert_all.py 0.1 0.1 60
+main           certified   2027388 boxes, dropped (other chart)      213, FAILED 0, min lower bound 1.194e-12  (17 rounds, 19s)
+band           certified      2048 boxes, dropped (other chart)        0, FAILED 0, min lower bound 1.001e-02  (1 rounds, 0s)
+corner +1      certified      1024 boxes, dropped (other chart)        0, FAILED 0, min lower bound 1.564e+00  (1 rounds, 0s)
+corner -1      certified      1024 boxes, dropped (other chart)        0, FAILED 0, min lower bound 1.538e+00  (1 rounds, 0s)
+TOTAL failed boxes: 0  ->  CLAIM M CERTIFIED (Coulomb)
+
+real	0m19.432s
+user	0m0.000s
+sys	0m0.015s
+== mixed_cert_all.py 0.4 0.02 60
+main           certified     21711 boxes, dropped (other chart)      518, FAILED 0, min lower bound 2.917e-08  (17 rounds, 0s)
+band           certified      2048 boxes, dropped (other chart)        0, FAILED 0, min lower bound 7.455e-03  (1 rounds, 0s)
+corner +1      certified      1024 boxes, dropped (other chart)        0, FAILED 0, min lower bound 1.579e+00  (1 rounds, 0s)
+corner -1      certified      1024 boxes, dropped (other chart)        0, FAILED 0, min lower bound 1.553e+00  (1 rounds, 0s)
+TOTAL failed boxes: 0  ->  CLAIM M CERTIFIED (Coulomb)
+
+real	0m0.285s
+user	0m0.015s
+sys	0m0.000s

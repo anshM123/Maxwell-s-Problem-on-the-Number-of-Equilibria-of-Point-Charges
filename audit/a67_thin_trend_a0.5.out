@@ -1,0 +1,43 @@
+family isosceles (A,A,180-2A)
+  A=(  0.050,  0.050, 179.900) kw_min -0.02361  kmin -2.17e-05  turn (1431, 9)  wind [1,1]  nzeros 1  nonmono 0  reentry 0  aspect 36634285485892605904391312320095206643315049821640230515029405946638223063725969606723961686503806116915075598758299136318521392256350528231605137570838242158691886050283571738746980908763459272797942455374818708174445971442552735530051318918158956145011326566326202576117999495251746481170623745753088.0
+  A=(  0.100,  0.100, 179.800) kw_min -0.00192  kmin -4.98e-06  turn (1440, 0)  wind [1,1]  nzeros 1  nonmono 0  reentry 0  aspect 26843768657405762277805244139191595615208348007785489317147514462651315217185715978864819029006189151587219452719709246611381120166618932280517839485585697380706682848024772616611382239546550301585351031487515831167170967307656405108418627993525761988481375231727866827900653918166413208361759066292224.0
+  A=(  0.200,  0.200, 179.600) kw_min 0.00147  kmin 9.78e-06  turn (1440, 0)  wind [1,1]  nzeros 1  nonmono 0  reentry 0  aspect 15481.7
+  A=(  0.500,  0.500, 179.000) kw_min 0.00443  kmin 7.25e-05  turn (1440, 0)  wind [1,1]  nzeros 1  nonmono 0  reentry 0  aspect 3583.5
+  A=(  1.000,  1.000, 178.000) kw_min 0.00923  kmin 2.65e-04  turn (1440, 0)  wind [1,1]  nzeros 1  nonmono 0  reentry 0  aspect 1249.6
+  A=(  2.000,  2.000, 176.000) kw_min 0.01903  kmin 9.42e-04  turn (1440, 0)  wind [1,1]  nzeros 1  nonmono 0  reentry 0  aspect 440.8
+  A=(  5.000,  5.000, 170.000) kw_min 0.04937  kmin 4.91e-03  turn (1440, 0)  wind [1,1]  nzeros 1  nonmono 0  reentry 0  aspect 111.4
+  A=( 10.000, 10.000, 160.000) kw_min 0.10079  kmin 1.68e-02  turn (1440, 0)  wind [1,1]  nzeros 1  nonmono 0  reentry 0  aspect 39.3
+  A=( 20.000, 20.000, 140.000) kw_min 0.20379  kmin 5.65e-02  turn (1440, 0)  wind [1,1]  nzeros 1  nonmono 0  reentry 0  aspect 13.7
+  A=( 40.000, 40.000, 100.000) kw_min 0.41404  kmin 1.95e-01  turn (1440, 0)  wind [1,1]  nzeros 1  nonmono 0  reentry 0  aspect 4.6
+  A=( 60.000, 60.000,  60.000) kw_min 0.64561  kmin 4.30e-01  turn (1440, 0)  wind [1,1]  nzeros 1  nonmono 0  reentry 0  aspect 2.3
+family two small (A,3A)
+  A=(  0.050,  0.150, 179.800) kw_min -0.00192  kmin -5.00e-06  turn (1440, 0)  wind [1,1]  nzeros 1  nonmono 0  reentry 0  aspect 26839046879419453899023516686266877106745563957587497425865069308393646064391484439015226025800588240302523892213929235350555133999328256596278861336232983760538516233512555631718235448411136067971634476513248024336033021348574367361765423948984053444874164112291409646646147989586720262403259921072128.0
+  A=(  0.100,  0.300, 179.600) kw_min 0.00147  kmin 9.78e-06  turn (1440, 0)  wind [1,1]  nzeros 1  nonmono 0  reentry 0  aspect 15475.8
+  A=(  0.200,  0.600, 179.200) kw_min 0.00348  kmin 4.71e-05  turn (1440, 0)  wind [1,1]  nzeros 1  nonmono 0  reentry 0  aspect 5033.5
+  A=(  0.500,  1.500, 178.000) kw_min 0.00923  kmin 2.65e-04  turn (1440, 0)  wind [1,1]  nzeros 1  nonmono 0  reentry 0  aspect 1245.7
+  A=(  1.000,  3.000, 176.000) kw_min 0.01903  kmin 9.42e-04  turn (1440, 0)  wind [1,1]  nzeros 1  nonmono 0  reentry 0  aspect 438.0
+  A=(  2.000,  6.000, 172.000) kw_min 0.03917  kmin 3.30e-03  turn (1440, 0)  wind [1,1]  nzeros 1  nonmono 0  reentry 0  aspect 153.8
+  A=(  5.000, 15.000, 160.000) kw_min 0.10083  kmin 1.68e-02  turn (1440, 0)  wind [1,1]  nzeros 1  nonmono 0  reentry 0  aspect 39.3
+  A=( 10.000, 30.000, 140.000) kw_min 0.20407  kmin 5.66e-02  turn (1440, 0)  wind [1,1]  nzeros 1  nonmono 0  reentry 0  aspect 13.8
+  A=( 20.000, 60.000, 100.000) kw_min 0.41471  kmin 1.95e-01  turn (1440, 0)  wind [1,1]  nzeros 1  nonmono 0  reentry 0  aspect 4.7
+  A=( 40.000,120.000,  20.000) kw_min 0.56116  kmin 3.43e-01  turn (1440, 0)  wind [1,1]  nzeros 1  nonmono 0  reentry 0  aspect 2.8
+family one small (A,60)
+  A=(  0.050, 60.000, 119.950) kw_min 0.31046  kmin 1.17e-01  turn (1440, 0)  wind [1,1]  nzeros 1  nonmono 0  reentry 0  aspect 7.5
+  A=(  0.100, 60.000, 119.900) kw_min 0.31072  kmin 1.17e-01  turn (1440, 0)  wind [1,1]  nzeros 1  nonmono 0  reentry 0  aspect 7.5
+  A=(  0.200, 60.000, 119.800) kw_min 0.31123  kmin 1.17e-01  turn (1440, 0)  wind [1,1]  nzeros 1  nonmono 0  reentry 0  aspect 7.5
+  A=(  0.500, 60.000, 119.500) kw_min 0.31277  kmin 1.18e-01  turn (1440, 0)  wind [1,1]  nzeros 1  nonmono 0  reentry 0  aspect 7.5
+  A=(  1.000, 60.000, 119.000) kw_min 0.31534  kmin 1.20e-01  turn (1440, 0)  wind [1,1]  nzeros 1  nonmono 0  reentry 0  aspect 7.4
+  A=(  2.000, 60.000, 118.000) kw_min 0.32048  kmin 1.24e-01  turn (1440, 0)  wind [1,1]  nzeros 1  nonmono 0  reentry 0  aspect 7.2
+  A=(  5.000, 60.000, 115.000) kw_min 0.33595  kmin 1.34e-01  turn (1440, 0)  wind [1,1]  nzeros 1  nonmono 0  reentry 0  aspect 6.6
+  A=( 10.000, 60.000, 110.000) kw_min 0.36190  kmin 1.53e-01  turn (1440, 0)  wind [1,1]  nzeros 1  nonmono 0  reentry 0  aspect 5.9
+  A=( 20.000, 60.000, 100.000) kw_min 0.41471  kmin 1.95e-01  turn (1440, 0)  wind [1,1]  nzeros 1  nonmono 0  reentry 0  aspect 4.7
+  A=( 40.000, 60.000,  80.000) kw_min 0.52556  kmin 2.97e-01  turn (1440, 0)  wind [1,1]  nzeros 1  nonmono 0  reentry 0  aspect 3.2
+  A=( 60.000, 60.000,  60.000) kw_min 0.64561  kmin 4.30e-01  turn (1440, 0)  wind [1,1]  nzeros 1  nonmono 0  reentry 0  aspect 2.3
+family one small (A,(180-A)/2)
+  A=(  0.050, 89.975,  89.975) kw_min 0.46528  kmin 2.31e-01  turn (1440, 0)  wind [1,1]  nzeros 1  nonmono 0  reentry 0  aspect 4.3
+  A=(  0.100, 89.950,  89.950) kw_min 0.46541  kmin 2.31e-01  turn (1440, 0)  wind [1,1]  nzeros 1  nonmono 0  reentry 0  aspect 4.3
+  A=(  0.500, 89.750,  89.750) kw_min 0.46650  kmin 2.32e-01  turn (1440, 0)  wind [1,1]  nzeros 1  nonmono 0  reentry 0  aspect 4.3
+  A=(  2.000, 89.000,  89.000) kw_min 0.47057  kmin 2.36e-01  turn (1440, 0)  wind [1,1]  nzeros 1  nonmono 0  reentry 0  aspect 4.2
+  A=( 10.000, 85.000,  85.000) kw_min 0.49272  kmin 2.58e-01  turn (1440, 0)  wind [1,1]  nzeros 1  nonmono 0  reentry 0  aspect 3.9
+  A=( 30.000, 75.000,  75.000) kw_min 0.55124  kmin 3.20e-01  turn (1440, 0)  wind [1,1]  nzeros 1  nonmono 0  reentry 0  aspect 3.1
+  A=( 60.000, 60.000,  60.000) kw_min 0.64561  kmin 4.30e-01  turn (1440, 0)  wind [1,1]  nzeros 1  nonmono 0  reentry 0  aspect 2.3

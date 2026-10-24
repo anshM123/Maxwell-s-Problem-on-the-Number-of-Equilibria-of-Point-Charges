@@ -1,0 +1,14 @@
+# Outputs of mixed_alpha_sweep.py that make up the certificate for alpha in [1/4, 2] (file:a_lo:a_hi:w, as run).
+# Runs were stopped and restarted with narrower slices where wide slices kept failing; sweep_coverage.py uses only the
+# slices each output reports as CERTIFIED. Every run used e0 = 0.4, r0 = 0.05, from code/:
+#   python mixed_alpha_sweep.py <a_lo> <a_hi> <w> 0.4 0.05 [log]
+# (the first run, alpha_sweep.out, was started as `mixed_alpha_sweep.py 0.25 2.0 0.05 0.4 0.05` and stopped after 1.55).
+# The certificate also needs the strip run next to A1 + A2 = pi for all F:
+#   python mixed_certF_sliver.py 0.25 2.0 0.05 1e-6     -> mixed_certF_sliver.out
+alpha_sweep.out:0.25:2.0:0.05
+alpha_sweep_mid.out:1.55:1.7:0.00625
+alpha_sweep_hi.out:1.7:2.0:0.025
+alpha_sweep_hi2.out:1.7125:2.0:0.00625
+alpha_sweep_t1.out:1.84375:1.896484375:0.001953125
+alpha_sweep_t2.out:1.896484375:1.94921875:0.001953125
+alpha_sweep_t3.out:1.94921875:2.0:0.001953125

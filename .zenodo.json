@@ -1,0 +1,12 @@
+{
+  "title": "Maxwell's problem for three point charges",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "creators": [
+    {"name": "Mishra, Ansh"},
+    {"name": "Senthilkumar, Aryan"}
+  ],
+  "description": "Proofs that three point charges have at most four equilibria. (1) Charges of one sign: for every alpha > 0 the potential sum_i q_i |x - p_i|^(-2 alpha) in R^n has at most four critical points (sharp); the previous bound was six. In the angles under which the sides are seen from a critical point the equilibrium equations separate, the region of minima is convex, and the gradient of a strictly convex function is injective on it; no computer is used. (2) Charges of different signs: the Coulomb potential in R^3 has at most four critical points if the charges are not collinear, and at most four non-degenerate ones if they are; the same holds for every alpha in [1/4, 2]. One step, the convexity of an explicit planar region, is verified by interval arithmetic. Together this gives Maxwell's bound (k-1)^2 for k = 3 Coulomb charges: for all equilibria when the charges are not collinear, and for non-degenerate ones when they are. Includes the paper, the certificate code, numerical checks and internal audits.",
+  "license": "MIT",
+  "keywords": ["Maxwell's problem", "point charges", "equilibrium points", "Riesz potential", "critical points", "computer-assisted proof", "interval arithmetic"]
+}

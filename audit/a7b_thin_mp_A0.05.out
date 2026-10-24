@@ -1,0 +1,7 @@
+A = 0.05 deg, alpha = 0.5: D(theta*) = 0.25 (should be 1/4), n* - pi/sqrt2 = 0.000617067, strip width 0.00123413
+s-extent of theta(M): 0.4806018712 (t = 2.2s)
+boundary computed at 41 values of s (t = 5.1s); vertical lines where D is not unimodal (sampled): 0
+stride 1: n_+'' max -0.00082386 (must be < 0), n_-'' min 0.00082386 (must be > 0); #violations upper 0 lower 0; relative margins min(-n_+'') s_end^2/n_extent = 0.46257, min(n_-'') s_end^2/n_extent = 0.46257
+stride 2: n_+'' max -0.00082717 (must be < 0), n_-'' min 0.00082717 (must be > 0); #violations upper 0 lower 0; relative margins min(-n_+'') s_end^2/n_extent = 0.46443, min(n_-'') s_end^2/n_extent = 0.46443
+n_+(s) - n*, n_-(s) - n* at s/s_end = 0, .25, .5, .75, .995: [('0.000205689', '-0.000205689'), ('0.000199694', '-0.000199694'), ('0.000180127', '-0.000180127'), ('0.000139897', '-0.000139897'), ('2.13539e-5', '-2.13539e-5')]
+total time 5.1s

@@ -1,0 +1,30 @@
+alpha [1.700000, 1.725000]: not closed (108s elapsed)
+    main         certified   4069904, FAILED 5402833  (14 rounds, 84s)
+    band         certified    634421, FAILED 0  (11 rounds, 7s)
+    corner +1    certified      2048, FAILED 0  (1 rounds, 0s)
+    corner -1    certified   1728937, FAILED 0  (12 rounds, 17s)
+    TOTAL failed: 5402833  ->  not complete
+alpha [1.700000, 1.712500]: not closed (251s elapsed)
+    main         certified   9469882, FAILED 5126531  (17 rounds, 132s)
+    band         certified    314629, FAILED 0  (10 rounds, 3s)
+    corner +1    certified      2048, FAILED 0  (1 rounds, 0s)
+    corner -1    certified    839447, FAILED 0  (11 rounds, 8s)
+    TOTAL failed: 5126531  ->  not complete
+alpha [1.700000, 1.706250]: CERTIFIED (342s elapsed)
+    main         certified   9803591, FAILED 0  (23 rounds, 87s)
+    band         certified    157476, FAILED 0  (9 rounds, 1s)
+    corner +1    certified      2048, FAILED 0  (1 rounds, 0s)
+    corner -1    certified    410656, FAILED 0  (10 rounds, 3s)
+    TOTAL failed: 0  ->  CLAIM M CERTIFIED for alpha in [1.7, 1.70625]
+alpha [1.706250, 1.712500]: CERTIFIED (437s elapsed)
+    main         certified   9978612, FAILED 0  (23 rounds, 90s)
+    band         certified    159186, FAILED 0  (9 rounds, 1s)
+    corner +1    certified      2048, FAILED 0  (1 rounds, 0s)
+    corner -1    certified    429052, FAILED 0  (10 rounds, 4s)
+    TOTAL failed: 0  ->  CLAIM M CERTIFIED for alpha in [1.70625, 1.7125]
+alpha [1.712500, 1.725000]: not closed (583s elapsed)
+    main         certified   9598819, FAILED 5397505  (17 rounds, 134s)
+    band         certified    321758, FAILED 0  (10 rounds, 3s)
+    corner +1    certified      2048, FAILED 0  (1 rounds, 0s)
+    corner -1    certified    889668, FAILED 0  (11 rounds, 8s)
+    TOTAL failed: 5397505  ->  not complete

@@ -1,0 +1,21 @@
+Part A: NaN input intervals
+   ia.sinc    (NaN) -> [0.9999999999999993, 1.0]
+   ia.asinc   (NaN) -> [1.0, 1.0000000000000013]
+   ia.asinhc  (NaN) -> [0.9999999999999993, 1.0]
+   ia.sin     (NaN) -> [nan, nan]
+   ia.cos     (NaN) -> [nan, nan]
+   ia.log     (NaN) -> [-inf, nan]
+   ia.exp     (NaN) -> [nan, nan]
+   ia.sinh    (NaN) -> [nan, nan]
+   ia.cosh    (NaN) -> [nan, nan]
+   ia.sqrt    (NaN) -> [nan, nan]
+   ia.sq      (NaN) -> [nan, nan]
+   ia.arccos  (NaN) -> [nan, nan]
+   ia.arcsin  (NaN) -> [nan, nan]
+   ia.arcsinh (NaN) -> [nan, nan]
+   ia.arctan  (NaN) -> [nan, nan]
+Part B: non-finite inputs reaching sinc/asinc/asinhc during band-chart runs
+band         certified      4096, FAILED 0  (1 rounds, 0s)
+   alpha [0.25, 0.3]: failed 0; non-finite inputs: sinc 0 of 53248, asinc 0 of 4096, asinhc 0 of 4096
+band         certified    234943, FAILED 0  (12 rounds, 2s)
+   alpha [1.998046875, 2.0]: failed 0; non-finite inputs: sinc 0 of 6055270, asinc 0 of 465790, asinhc 0 of 465790

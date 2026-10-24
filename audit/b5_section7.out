@@ -1,0 +1,3 @@
+(1) mixed signs, 120 critical points (60 in R+, 60 in R-): max rel |Hess V - 2 alpha kappa L DPsi| = 9.33e-29; L has rank 2 (largest 1/sigma_min = 74.5)
+(2) collinear mixed charges (130 configurations): number of on-axis equilibria {0: 33, 1: 1, 2: 96}; max non-degenerate on-axis equilibria 2; number of off-axis equilibrium circles {0: 97, 1: 33}
+(3) after moving p3 off the axis by 1e-3: total critical points of the perturbed configurations {1: 14, 2: 29}; non-degenerate on-axis equilibria without a nearby perturbed critical point: 15

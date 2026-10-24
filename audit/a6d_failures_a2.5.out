@@ -1,0 +1,15 @@
+a6d_failures.py:107: RuntimeWarning: overflow encountered in exp
+  l = np.exp(np.r_[z, 0.0])
+a6d_failures.py:108: RuntimeWarning: invalid value encountered in divide
+  l /= l.sum()
+a6d_failures.py:56: RuntimeWarning: overflow encountered in power
+  w = q * r ** (-beta)
+a6d_failures.py:57: RuntimeWarning: invalid value encountered in multiply
+  return (w[:, None] * (x - P)).sum(0) / (w * r).sum()
+a6d_failures.py:57: RuntimeWarning: invalid value encountered in divide
+  return (w[:, None] * (x - P)).sum(0) / (w * r).sum()
+a6d_failures.py:56: RuntimeWarning: divide by zero encountered in power
+  w = q * r ** (-beta)
+config 220 angles [29.64, 111.476, 38.884]: first pass (0,3) -> robust (1,3), index count OK; points added: [[0.0837150786, 0.8134688466, 0.1028160748]]
+config 229 angles [82.192, 3.147, 94.661]: first pass (1,2) -> robust (1,3), index count OK; points added: [[0.5232285867, 0.0032325342, 0.4735388792]]
+alpha 2.5: 800 configurations replayed, 2 failed the first pass; robust re-solve: 2 now satisfy the index count (1 min + 3 saddles expected), 0 still fail

@@ -1,0 +1,3 @@
+(2a) general vertices, x = 0, signed Delta: expanded numerator of lhs - rhs = 0   (177.0s)
+     sanity: number of monomials in the expanded numerator of lhs alone: 384
+(2b) 50-digit numerics: max |ratio - 1| with signed Delta: 3.64e-48;  with Delta = |area|: ccw-labelled 9.92e-49, cw-labelled ratio signs [-1]

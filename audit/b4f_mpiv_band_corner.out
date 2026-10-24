@@ -1,0 +1,3 @@
+band      2048 grid boxes: refined 0, leaf boxes 2048, NOT certified 0, min lower bound [0.009336793416509762083722401387, 0.009336793416509762083722401387] (3s)
+corner+   1024 grid boxes: refined 0, leaf boxes 1024, NOT certified 0, min lower bound [1.573738663253673377931922641, 1.573738663253673377931922641] (1s)
+corner-   1024 grid boxes: refined 0, leaf boxes 1024, NOT certified 0, min lower bound [1.548308770574402609911070916, 1.548308770574402609911070916] (1s)

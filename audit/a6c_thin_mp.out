@@ -1,0 +1,28 @@
+A = 0.2 deg: theta* = (1.57254165605, 1.57254165605), D(theta*) = 0.25
+boundary points with psi in pi/4 +- 0.09: 120; sign(Psi1 - Psi2) != sign(theta1 - theta2) at 0
+  psi 0.695398  theta1-theta2 +1.050e-04  Psi1-Psi2 +2.021e-15
+  psi 0.710524  theta1-theta2 +8.728e-05  Psi1-Psi2 +1.161e-15
+  psi 0.725650  theta1-theta2 +6.960e-05  Psi1-Psi2 +5.885e-16
+  psi 0.740776  theta1-theta2 +5.195e-05  Psi1-Psi2 +2.448e-16
+  psi 0.755902  theta1-theta2 +3.433e-05  Psi1-Psi2 +7.061e-17
+  psi 0.771028  theta1-theta2 +1.672e-05  Psi1-Psi2 +8.160e-18
+  psi 0.786154  theta1-theta2 -8.800e-07  Psi1-Psi2 -1.189e-21
+  psi 0.801281  theta1-theta2 -1.848e-05  Psi1-Psi2 -1.102e-17
+  psi 0.816407  theta1-theta2 -3.609e-05  Psi1-Psi2 -8.205e-17
+  psi 0.831533  theta1-theta2 -5.372e-05  Psi1-Psi2 -2.705e-16
+  psi 0.846659  theta1-theta2 -7.137e-05  Psi1-Psi2 -6.345e-16
+  psi 0.861785  theta1-theta2 -8.905e-05  Psi1-Psi2 -1.233e-15
+A = 1.0 deg: theta* = (1.57952297305, 1.57952297305), D(theta*) = 0.25
+boundary points with psi in pi/4 +- 0.09: 120; sign(Psi1 - Psi2) != sign(theta1 - theta2) at 0
+  psi 0.695398  theta1-theta2 +5.250e-04  Psi1-Psi2 +1.263e-12
+  psi 0.710524  theta1-theta2 +4.364e-04  Psi1-Psi2 +7.254e-13
+  psi 0.725650  theta1-theta2 +3.480e-04  Psi1-Psi2 +3.678e-13
+  psi 0.740776  theta1-theta2 +2.598e-04  Psi1-Psi2 +1.530e-13
+  psi 0.755902  theta1-theta2 +1.716e-04  Psi1-Psi2 +4.414e-14
+  psi 0.771028  theta1-theta2 +8.360e-05  Psi1-Psi2 +5.100e-15
+  psi 0.786154  theta1-theta2 -4.400e-06  Psi1-Psi2 -7.434e-19
+  psi 0.801281  theta1-theta2 -9.240e-05  Psi1-Psi2 -6.886e-15
+  psi 0.816407  theta1-theta2 -1.804e-04  Psi1-Psi2 -5.129e-14
+  psi 0.831533  theta1-theta2 -2.686e-04  Psi1-Psi2 -1.691e-13
+  psi 0.846659  theta1-theta2 -3.568e-04  Psi1-Psi2 -3.966e-13
+  psi 0.861785  theta1-theta2 -4.452e-04  Psi1-Psi2 -7.704e-13

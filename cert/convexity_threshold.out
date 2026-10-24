@@ -1,0 +1,17 @@
+(1) minimum of I/(A1+A2)^4 over sampled triangles and boundary points
+alpha  0.25: +6.5889e-03  [40-digit reference +6.5889e-03]  at angles (88.402, 91.306, 0.292) deg, rho -0.9845
+alpha  2.00: +7.2670e-02  [40-digit reference +7.2670e-02]  at angles (88.856, 77.309, 13.836) deg, rho +0.9969
+alpha  4.00: +7.5614e-02  [40-digit reference +7.5614e-02]  at angles (0.000, 4.944, 175.055) deg, rho -0.8831
+alpha  5.00: +3.9870e-02  [40-digit reference +3.9870e-02]  at angles (1.931, 0.000, 178.069) deg, rho +0.8730
+alpha  5.20: +3.0761e-02  [40-digit reference +3.0761e-02]  at angles (0.001, 1.408, 178.591) deg, rho -0.8712
+alpha  5.40: +2.1015e-02  [40-digit reference +2.1015e-02]  at angles (0.904, 0.000, 179.096) deg, rho +0.8693
+alpha  5.50: +1.5906e-02  [40-digit reference +1.5906e-02]  at angles (0.000, 0.697, 179.303) deg, rho -0.8686
+alpha  5.60: +1.0640e-02  [40-digit reference +1.0640e-02]  at angles (0.001, 0.415, 179.585) deg, rho -0.8676
+alpha  5.80: -3.6536e-04  [40-digit reference -3.6054e-04]  at angles (0.000, 0.117, 179.883) deg, rho +0.8658
+alpha  6.00: -1.1983e-02  [40-digit reference -1.1983e-02]  at angles (0.000, 0.394, 179.606) deg, rho +0.8644
+alpha  8.00: -1.6180e-01  [40-digit reference -1.6180e-01]  at angles (0.000, 3.603, 176.397) deg, rho +0.8516
+alpha 10.00: -3.7191e-01  [40-digit reference -3.7191e-01]  at angles (0.000, 5.612, 174.388) deg, rho +0.8419
+(2) the degenerate corner A1 + A2 = e -> 0 with A2/A1 = 1e-5 (50 digits; min over rho in [0.80, 0.94])
+alpha 5.6: e=3e-02 +1.0718e-02  e=1e-02 +1.0706e-02  e=3e-03 +1.0715e-02  e=1e-03 +1.0709e-02  e=3e-04 +1.0707e-02  e=1e-04 +1.0707e-02
+alpha 5.7: e=3e-02 +5.3424e-03  e=1e-02 +5.2958e-03  e=3e-03 +5.2605e-03  e=1e-03 +5.2544e-03  e=3e-04 +5.2528e-03  e=1e-04 +5.2523e-03
+alpha 5.8: e=3e-02 -1.7412e-04  e=1e-02 -3.0154e-04  e=3e-03 -3.3807e-04  e=1e-03 -3.4430e-04  e=3e-04 -3.4604e-04  e=1e-04 -3.4649e-04

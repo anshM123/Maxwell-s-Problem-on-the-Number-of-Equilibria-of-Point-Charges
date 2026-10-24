@@ -1,0 +1,16 @@
+alpha_sweep.out         34 certified,  8 not closed, log problems 0, final line: (none: run stopped)
+alpha_sweep_mid.out     24 certified,  0 not closed, log problems 0, final line: SWEEP alpha in [1.55, 1.7]: ALL CERTIFIED
+alpha_sweep_hi.out       2 certified,  3 not closed, log problems 0, final line: (none: run stopped)
+alpha_sweep_hi2.out     23 certified,  2 not closed, log problems 0, final line: (none: run stopped)
+alpha_sweep_t1.out      27 certified,  0 not closed, log problems 0, final line: SWEEP alpha in [1.84375, 1.89648]: ALL CERTIFIED
+alpha_sweep_t2.out      27 certified,  0 not closed, log problems 0, final line: SWEEP alpha in [1.89648, 1.94922]: ALL CERTIFIED
+alpha_sweep_t3.out      26 certified,  0 not closed, log problems 0, final line: SWEEP alpha in [1.94922, 2]: ALL CERTIFIED
+
+certified F-boxes (replayed floats): 163 boxes, union [1.083333333333333, 2.600000000000001], gaps none, smallest overlap 8.882e-16, covers [13/12, 13/5]: YES
+certified F-boxes (decimal text read literally): 163 boxes, union [1.083333333333333, 2.600000000000001], gaps none, smallest overlap 8.882e-16, covers [13/12, 13/5]: YES
+alpha-slices: 163, span [0.25, 2.0], alpha-gaps: none
+not-closed slices re-covered by certified slices: 13 of 13
+sliver F-box [1.083333333333333, 2.600000000000001] contains [13/12, 13/5]: True
+F(1/4) = 13/12, F(2) = 13/5 (exact); F float at 1/4: 1.0833333333333335 (> 13/12), at 2: 2.6 (>= 13/5)
+each F-box contains the exact F-range of its slice: False (3 exceptions); smallest margins -2.10e-16 (low end), -3.45e-16 (high end)
+VERDICT: log problems 0; F-union covers: True (replayed), True (literal)

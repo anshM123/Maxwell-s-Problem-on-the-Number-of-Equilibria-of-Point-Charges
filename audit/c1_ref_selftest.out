@@ -1,0 +1,9 @@
+c1_ref_selftest (60 digits): F in {13/12, 5/4, 9/5, 13/5}; generic, thin (A1+A2 down to 1e-5), flat (A3 down to 1e-9), lopsided (A2/A1 down to 1e-7) shapes; corner shapes r down to 1e-5
+boundary points tested: 1200
+(a) product representation, max relative error: 6.72e-54
+(b) region formula cosh Delta = beta(s) at the vertex-3 boundary point, max rel. error: 2.33e-54
+(f) vertex-1 region formula cosh(L3 - L2) = beta1(t1), max rel. error: 1.05e-54
+(c) I from E-derivatives vs closed formula (eq:I), max rel. difference: 1.52e-49
+(d) J1/U2^2 from E-derivatives vs closed formula (eq:J1), max rel. difference: 5.1e-49
+(e) failures of psi_max < A1+A2: 0; of psi1_max < A1: 0
+arc-sign failures: 0; boundary point not found: 0

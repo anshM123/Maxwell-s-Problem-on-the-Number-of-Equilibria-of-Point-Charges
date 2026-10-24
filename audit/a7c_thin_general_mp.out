@@ -1,0 +1,63 @@
+A = (0.05, 0.15, 179.8) deg, alpha 0.5: D(theta*) = 0.25, s* = -0.0006170670747, n* - nlo = 0.00123413, strip width 0.00246827
+s-range of theta(M): [-0.4812186051, 0.4799844709] (t = 9.4s)
+boundary at 41 values of s (t = 13.2s); vertical lines with D not unimodal (sampled): 0
+stride 1: #violations upper 0 lower 0; relative margins min(-n_+'') (L/2)^2/n_extent = 0.46231, min(n_-'') (L/2)^2/n_extent = 0.46231
+stride 2: #violations upper 0 lower 0; relative margins min(-n_+'') (L/2)^2/n_extent = 0.46337, min(n_-'') (L/2)^2/n_extent = 0.46337
+total time 13.2s
+
+A = (0.1, 0.5, 179.4) deg, alpha 0.5: D(theta*) = 0.25, s* = -0.002468268299, n* - nlo = 0.0037024, strip width 0.0074048
+s-range of theta(M): [-0.4830660462, 0.4781295096] (t = 9.3s)
+boundary at 41 values of s (t = 13.7s); vertical lines with D not unimodal (sampled): 0
+stride 1: #violations upper 0 lower 0; relative margins min(-n_+'') (L/2)^2/n_extent = 0.46231, min(n_-'') (L/2)^2/n_extent = 0.46231
+stride 2: #violations upper 0 lower 0; relative margins min(-n_+'') (L/2)^2/n_extent = 0.46337, min(n_-'') (L/2)^2/n_extent = 0.46337
+total time 13.7s
+
+A = (0.2, 1.0, 178.8) deg, alpha 0.5: D(theta*) = 0.25, s* = -0.004936536598, n* - nlo = 0.0074048, strip width 0.0148096
+s-range of theta(M): [-0.4855217493, 0.4756486761] (t = 12.1s)
+boundary at 41 values of s (t = 15.7s); vertical lines with D not unimodal (sampled): 0
+stride 1: #violations upper 0 lower 0; relative margins min(-n_+'') (L/2)^2/n_extent = 0.46231, min(n_-'') (L/2)^2/n_extent = 0.46231
+stride 2: #violations upper 0 lower 0; relative margins min(-n_+'') (L/2)^2/n_extent = 0.46338, min(n_-'') (L/2)^2/n_extent = 0.46338
+total time 15.7s
+
+A = (1, 5, 174.0) deg, alpha 0.5: D(theta*) = 0.25, s* = -0.02468268299, n* - nlo = 0.037024, strip width 0.074048
+s-range of theta(M): [-0.5048659824, 0.4555006164] (t = 11.5s)
+boundary at 41 values of s (t = 14.9s); vertical lines with D not unimodal (sampled): 0
+stride 1: #violations upper 0 lower 0; relative margins min(-n_+'') (L/2)^2/n_extent = 0.46244, min(n_-'') (L/2)^2/n_extent = 0.46244
+stride 2: #violations upper 0 lower 0; relative margins min(-n_+'') (L/2)^2/n_extent = 0.4635, min(n_-'') (L/2)^2/n_extent = 0.4635
+total time 14.9s
+
+A = (0.05, 2, 177.95) deg, alpha 0.5: D(theta*) = 0.25, s* = -0.01203280796, n* - nlo = 0.0126499, strip width 0.0252998
+s-range of theta(M): [-0.4925766745, 0.4685110586] (t = 10.0s)
+boundary at 41 values of s (t = 12.9s); vertical lines with D not unimodal (sampled): 0
+stride 1: #violations upper 0 lower 0; relative margins min(-n_+'') (L/2)^2/n_extent = 0.46233, min(n_-'') (L/2)^2/n_extent = 0.46233
+stride 2: #violations upper 0 lower 0; relative margins min(-n_+'') (L/2)^2/n_extent = 0.46339, min(n_-'') (L/2)^2/n_extent = 0.46339
+total time 12.9s
+
+A = (0.1, 0.1, 179.8) deg, alpha 0.25: D(theta*) = 0.25, s* = 3.264774382e-21, n* - nlo = 0.00123413, strip width 0.00246827
+s-range of theta(M): [-0.2847628826, 0.2847628826] (t = 10.5s)
+boundary at 41 values of s (t = 14.1s); vertical lines with D not unimodal (sampled): 0
+stride 1: #violations upper 0 lower 0; relative margins min(-n_+'') (L/2)^2/n_extent = 0.48687, min(n_-'') (L/2)^2/n_extent = 0.48687
+stride 2: #violations upper 0 lower 0; relative margins min(-n_+'') (L/2)^2/n_extent = 0.48785, min(n_-'') (L/2)^2/n_extent = 0.48785
+total time 14.1s
+
+A = (0.1, 0.1, 179.8) deg, alpha 2.5: D(theta*) = 0.25, s* = 3.264774382e-21, n* - nlo = 0.00123413, strip width 0.00246827
+s-range of theta(M): [-1.125151388, 1.125151388] (t = 8.9s)
+boundary at 41 values of s (t = 13.3s); vertical lines with D not unimodal (sampled): 0
+stride 1: #violations upper 0 lower 0; relative margins min(-n_+'') (L/2)^2/n_extent = 0.30426, min(n_-'') (L/2)^2/n_extent = 0.30426
+stride 2: #violations upper 0 lower 0; relative margins min(-n_+'') (L/2)^2/n_extent = 0.30557, min(n_-'') (L/2)^2/n_extent = 0.30557
+total time 13.3s
+
+A = (0.1, 0.1, 179.8) deg, alpha 10.0: D(theta*) = 0.25, s* = 3.264774382e-21, n* - nlo = 0.00123413, strip width 0.00246827
+s-range of theta(M): [-1.613752023, 1.613752023] (t = 9.4s)
+boundary at 41 values of s (t = 13.2s); vertical lines with D not unimodal (sampled): 0
+stride 1: #violations upper 0 lower 0; relative margins min(-n_+'') (L/2)^2/n_extent = 0.13704, min(n_-'') (L/2)^2/n_extent = 0.13704
+stride 2: #violations upper 0 lower 0; relative margins min(-n_+'') (L/2)^2/n_extent = 0.138, min(n_-'') (L/2)^2/n_extent = 0.138
+total time 13.2s
+
+A = (0.1, 0.3, 179.6) deg, alpha 0.05000000000000000277555756156289135105908: D(theta*) = 0.25, s* = -0.001234134149, n* - nlo = 0.00246827, strip width 0.00493654
+s-range of theta(M): [-0.06860288314, 0.06613461484] (t = 9.2s)
+boundary at 41 values of s (t = 12.6s); vertical lines with D not unimodal (sampled): 0
+stride 1: #violations upper 0 lower 0; relative margins min(-n_+'') (L/2)^2/n_extent = 0.49955, min(n_-'') (L/2)^2/n_extent = 0.49955
+stride 2: #violations upper 0 lower 0; relative margins min(-n_+'') (L/2)^2/n_extent = 0.50049, min(n_-'') (L/2)^2/n_extent = 0.50049
+total time 12.6s
+
